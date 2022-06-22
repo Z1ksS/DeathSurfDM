@@ -1,0 +1,8 @@
+"deathsurf"
+{
+	"base"		"base"
+	"title"		"Surf Team Deathmatch"
+	"maps"		"^deathrun"
+	"category"	"other"
+	"menusystem"	"1"
+}
